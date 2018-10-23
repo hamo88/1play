@@ -1,6 +1,6 @@
-token=NDkxNTQ2OTkwMjkxODQ1MTUw.Dqtbig.NRJBOUaX54J2R4tHY43HLuSrLVg
+token=NDY3NjcyODg5NjAxMTYzMjY0.DrE_3w.AXwsJZ9tIDX7PiPb9qAcrlOAvEo
 owner=460813839051784202
-prefix=0
-game=Type 0play
+prefix=1
+game=Type Zombie ♪ .
 stayinchannel=true
 songinstatus=true
