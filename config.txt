@@ -1,5 +1,5 @@
-token=NDY3NjcyODg5NjAxMTYzMjY0.DrFBJw.tt7yU5g1RM68F3QJB6H9dJ7NG5w
-owner=460813839051784202
+token=NDY3NjcyODg5NjAxMTYzMjY0.DrFBow.8XNompPDAkJ3v5K6l6Bwa7z-LE0
+owner=466425075487342615
 prefix=1
 game=Type Zombie ♪ .
 stayinchannel=true
