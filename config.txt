@@ -3,4 +3,3 @@ owner=466425075487342615
 prefix=1
 game=Zombie ♪ .
 stayinchannel=true
-songinstatus=true
