@@ -1,6 +1,6 @@
 token=NDY3NjcyODg5NjAxMTYzMjY0.DrFBow.8XNompPDAkJ3v5K6l6Bwa7z-LE0
 owner=466425075487342615
 prefix=1
-game=Type Zombie ♪ .
+game=Zombie ♪ .
 stayinchannel=true
 songinstatus=true
